@@ -1,6 +1,5 @@
-# Api -brk - Projeto retorno, carros plcas, e usuario.
+# Curso Php consulta, carros placas, e usuario.
 
-- Estudo de Api em Php
 - Busca por placa de carro, url = http://localhost/apibrk/?placa=;
 - Ao colocar url expecificar placa aops sinal de =, expleplo
 - http://localhost/apibrk/?placa=ppp0590;
